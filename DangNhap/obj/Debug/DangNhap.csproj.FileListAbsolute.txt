@@ -1,0 +1,11 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\bin\Debug\DangNhap.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\bin\Debug\DangNhap.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\bin\Debug\DangNhap.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.DangNhap.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\DangNhap\obj\Debug\DangNhap.khanh.resources

@@ -1,0 +1,9 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\bin\Debug\KiemTraSoNguyenTo.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\KiemTraSoNguyenTo\obj\Debug\KiemTraSoNguyenTo.pdb

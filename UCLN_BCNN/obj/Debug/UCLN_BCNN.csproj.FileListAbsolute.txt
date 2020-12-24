@@ -1,0 +1,9 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\bin\Debug\UCLN_BCNN.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\bin\Debug\UCLN_BCNN.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\bin\Debug\UCLN_BCNN.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\obj\Debug\UCLN_BCNN.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\obj\Debug\UCLN_BCNN.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\obj\Debug\UCLN_BCNN.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\obj\Debug\UCLN_BCNN.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\obj\Debug\UCLN_BCNN.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\UCLN_BCNN\obj\Debug\UCLN_BCNN.pdb

@@ -1,0 +1,10 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\GiaiPhuongTrinh.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\GiaiPhuongTrinh.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\GiaiPhuongTrinh.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.pdb

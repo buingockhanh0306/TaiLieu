@@ -1,0 +1,9 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\bin\Debug\TinhSoNgayTrongThang.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\bin\Debug\TinhSoNgayTrongThang.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\bin\Debug\TinhSoNgayTrongThang.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\obj\Debug\TinhSoNgayTrongThang.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\obj\Debug\TinhSoNgayTrongThang.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\obj\Debug\TinhSoNgayTrongThang.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\obj\Debug\TinhSoNgayTrongThang.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\obj\Debug\TinhSoNgayTrongThang.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\TinhSoNgayTrongThang\obj\Debug\TinhSoNgayTrongThang.pdb

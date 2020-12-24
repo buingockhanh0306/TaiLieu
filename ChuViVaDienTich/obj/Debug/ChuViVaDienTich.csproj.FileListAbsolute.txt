@@ -1,0 +1,10 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\bin\Debug\ChuViVaDienTich.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\bin\Debug\ChuViVaDienTich.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\bin\Debug\ChuViVaDienTich.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuViVaDienTich\obj\Debug\ChuViVaDienTich.pdb

@@ -1,0 +1,9 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\bin\Debug\PhepTinhPhanSo.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\bin\Debug\PhepTinhPhanSo.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\bin\Debug\PhepTinhPhanSo.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\PhepTinhPhanSo\obj\Debug\PhepTinhPhanSo.pdb

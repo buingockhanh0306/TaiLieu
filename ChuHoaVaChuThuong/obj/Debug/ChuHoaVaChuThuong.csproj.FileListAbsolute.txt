@@ -1,0 +1,10 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\bin\Debug\ChuHoaVaChuThuong.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\bin\Debug\ChuHoaVaChuThuong.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\bin\Debug\ChuHoaVaChuThuong.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ChuHoaVaChuThuong\obj\Debug\ChuHoaVaChuThuong.ChuHoaVaChuThuong.resources

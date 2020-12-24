@@ -1,0 +1,11 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\bin\Debug\NhapDaySoVaTinhTong_2.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\bin\Debug\NhapDaySoVaTinhTong_2.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\bin\Debug\NhapDaySoVaTinhTong_2.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.Form2.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\NhapDaySoVaTinhTong_2\obj\Debug\NhapDaySoVaTinhTong_2.DaySo2.resources

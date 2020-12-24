@@ -1,0 +1,10 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\bin\Debug\MangSoNguyen.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\bin\Debug\MangSoNguyen.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\bin\Debug\MangSoNguyen.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.MangSoNguyen.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\MangSoNguyen\obj\Debug\MangSoNguyen.pdb

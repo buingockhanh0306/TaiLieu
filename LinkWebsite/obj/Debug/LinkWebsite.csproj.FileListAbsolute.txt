@@ -1,0 +1,9 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\bin\Debug\LinkWebsite.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\bin\Debug\LinkWebsite.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\bin\Debug\LinkWebsite.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\obj\Debug\LinkWebsite.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\obj\Debug\LinkWebsite.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\obj\Debug\LinkWebsite.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\obj\Debug\LinkWebsite.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\obj\Debug\LinkWebsite.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\LinkWebsite\obj\Debug\LinkWebsite.pdb

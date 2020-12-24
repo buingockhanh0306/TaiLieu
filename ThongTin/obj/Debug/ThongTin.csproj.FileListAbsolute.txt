@@ -1,0 +1,10 @@
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\bin\Debug\ThongTin.exe.config
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\bin\Debug\ThongTin.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\bin\Debug\ThongTin.pdb
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.Form1.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.Properties.Resources.resources
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.exe
+D:\TaiLieuHocTap\WindowsForm\BaiTapVeNha\ThongTin\obj\Debug\ThongTin.pdb
